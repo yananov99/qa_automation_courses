@@ -1,0 +1,17 @@
+.idea 
+
+.DS_Store 
+
+target 
+
+*.iml
+
+.allure
+
+allure-results 
+
+build
+
+out
+
+.gradle 
